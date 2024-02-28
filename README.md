@@ -57,3 +57,5 @@ The methods all output strings just like in good ol Sept '95.
 	assignOnClick();
 </script>
 ```
+
+![](Screenshot%202024-02-28%20at%2017-25-40%20Screenshot.png)
